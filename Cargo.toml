@@ -55,7 +55,7 @@ edition = "2024"
 # `rig.workspace = true` (add per-example features at the use site).
 rig = { path = ".", version = "0.40.0" }
 anyhow = "1.0.102"
-arrow-array = "58"
+arrow-array = "59"
 as-any = "0.3.2"
 assert_fs = "1.1.3"
 async-stream = "0.3.6"
